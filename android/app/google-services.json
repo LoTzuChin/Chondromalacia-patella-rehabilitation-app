@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93839207878",
+    "project_id": "patella-rehabilitation-project",
+    "storage_bucket": "patella-rehabilitation-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93839207878:android:f927097e177a600df9d6c7",
+        "android_client_info": {
+          "package_name": "com.example.rehabilitation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQMbj48q43oAzBJajjWyyovBv7qftsekY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
