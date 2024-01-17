@@ -1,6 +1,7 @@
 # rehabilitation_app
 
 A new Flutter project.
+
 This app is designed for the rehabilitation of patellar maltracking, assisting mild cases to rehabilitate at home independently.
 
 ## Getting Started
